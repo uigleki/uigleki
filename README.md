@@ -1,20 +1,12 @@
-# template
+## Core Projects
 
-Where minds unite, dreams take flight
+- [dotfiles] - Reproducible development environment using Nix flakes
+- [collection] - Curated works on creative excellence
 
-## Features
+[collection]: https://github.com/uigleki/collection
+[dotfiles]: https://github.com/uigleki/dotfiles
 
-- Feature 1
-- Feature 2
-- Feature 3
+## Approach
 
-## Usage
-
-```bash
-git clone https://github.com/uigleki/template.git
-cd template
-```
-
-## License
-
-[AGPL-3.0](LICENSE)
+- I write code that lasts. No unnecessary complexity, no technical debt.
+- Every line has a purpose. Every choice has a reason.
