@@ -1,7 +1,7 @@
 ## Core Projects
 
-- [dotfiles] - Reproducible development environment using Nix flakes
 - [collection] - Curated works on creative excellence
+- [dotfiles] - Reproducible development environment using Nix flakes
 
 [collection]: https://github.com/uigleki/collection
 [dotfiles]: https://github.com/uigleki/dotfiles
